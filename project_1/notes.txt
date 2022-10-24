@@ -1,0 +1,33 @@
+Thing that I need to do:
+	Go through each article in the json input and create objects with it. 
+	For each artcile, print on a new line title, description, time, and url and then leave a line
+
+Parser
+
+(X) parser needs to return a list of objects that represent the articles that were parsed. 
+
+The team wants to use the parser regardless of the JSON source (code should just parse JSON)
+
+Error 
+(X) If an error is found in article, it is skipped. Articles without errors are returned to client.
+(X) If an error is found when processing the JSON, the error must be reported - the parser needs to take a java.util.logging.Logger
+(X) object as an argument - should be reported as a _warning_
+(X) FileHandler along with a SimpleFormatter should be used - disable the the default log record handler and establish a new handler using those
+	(x)create a log file
+
+Testing
+(X) Test for inputs with missing fields
+	ceate 2 article json 
+(X) Test for valid inputs to verify that all articles are parsed
+	test the first one 
+Main Demo
+(X) Create a class with a main method, input JSON files are input.json and bad.json 
+(X) Main method errors should be logged in the logger for your main class (which should log to a different file) 
+(X) For each article, print the title, the description time, and url; leave a blank line between each article
+
+Documentation
+(X) JavaDoc comment for every public method, brief description of the purpose and each parameter and return value
+	
+	
+
+

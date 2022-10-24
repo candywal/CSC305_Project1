@@ -1,0 +1,67 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "By <a href=\"/profiles/julia-hollingsworth\">Julia Hollingsworth</a>, CNN",
+      "description": "The coronavirus pandemic has brought countries to a standstill. Meanwhile, vaccinations have already started in some countries as cases continue to rise. Follow here for the latest.",
+      "url": "https://www.cnn.com/world/live-news/coronavirus-pandemic-vaccine-updates-03-24-21/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200213175739-03-coronavirus-0213-super-tease.jpg",
+      "publishedAt": "2021-03-24T22:32:00Z",
+      "content": "A senior European diplomat is urging caution over the use of proposed new rules that would govern exports of Covid-19 vaccines to outside of the EU. The rules were announced by the European Commissio… [+2476 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Sarah O'Brien",
+      "title": "'You can now buy a Tesla with bitcoin,' CEO Elon Musk said. But it could mean a big tax bill - CNBC",
+      "description": "The automaker said its customers can now purchase one of its electric cars using bitcoin as payment. Here's what that transaction would mean for your taxes.",
+      "url": "https://www.cnbc.com/2021/03/24/buying-a-tesla-using-bitcoin-it-could-mean-a-tax-bill.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106858968-1616618269948-gettyimages-490597690-87363922.jpeg?v=1616618320",
+      "publishedAt": "2021-03-24T19:47:00Z",
+      "content": "You may be aware that you can now purchase a Tesla using bitcoin.\r\nTesla CEO Elon Musk announced late Tuesday that it is now possible to buy Tesla vehicles in the U.S. with bitcoin.\r\n\"You can now buy… [+2739 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/igor-bonifacic",
+      "title": "Microsoft starts testing complementary multiplayer for free-to-play games | Engadget - Engadget",
+      "description": "The company has now started testing a dashboard update that enables removes the Xbox Gold requirement to play free-to-play games online.",
+      "url": "https://www.engadget.com/microsoft-free-to-play-multiplayer-dashboard-beta-193035266.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2020-11/3916b760-1faf-11eb-ac6f-2e9f202b4a1b",
+      "publishedAt": "2021-03-24T19:33:08Z",
+      "content": "Back at the start of the year, Microsoft said it would make it so that an Xbox Live Gold membership wouldn't be required to play free-to-play games like Fortnite and Apex Legends online. The company … [+1101 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Ralph Ellis, CNN",
+      "title": "People line the streets of Boulder to honor slain police Officer Eric Talley - CNN",
+      "url": "https://www.cnn.com/2021/03/24/us/officer-talley-procession/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210322232935-officer-eric-talley-headshot-super-tease.jpg",
+      "publishedAt": "2021-03-24T22:20:12Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Samuel Axon",
+      "title": "It’s been 20 years since the launch of Mac OS X - Ars Technica",
+      "description": "It's macOS 11 now, but the DNA is the same.",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/06/Screen-Shot-2020-06-22-at-11.27.17-AM-2-1-760x380.png",
+      "publishedAt": "2021-03-24T21:44:01Z",
+      "content": "Enlarge/ When presenting a new path forward, Apple CEO Tim Cook put the ARM transition up with the Mac's other big transitions: PowerPC, MacOS X, and Intel.\r\n40 with 35 posters participating\r\nIt was … [+2618 chars]"
+    }]
+}
